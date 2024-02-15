@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pixel</string>
+    <string name="hello_world_text">Pixel</string>
+    <string name="random_heading" />
+</resources>
